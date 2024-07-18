@@ -9,6 +9,7 @@ I am Prachi set of graduate in Decemeber 2024 with Computer Science degree, with
   GPA: 3.74 (Dean's Honors List)  
   Anticipated Graduation: December 2024  
   Related Coursework: Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/846d758c-4ccc-4958-8a5c-33b69faa9f29">
 
 ## Skills ✨
 
