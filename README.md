@@ -1,6 +1,6 @@
 
 # Hello there 👋
-
+<br>
 <img align="right" alt="coding" width="300" height= "200" src="https://github.com/user-attachments/assets/846d758c-4ccc-4958-8a5c-33b69faa9f29">
 
 I am Prachi, senior Computer Science student with 4 years of academic experience in software development and data analysis. Proficient in SDLC, Jira, technical writing, and Agile project management. Created 20+ dashboards at DMV, boosting decision-making accuracy by 25%. Certified in Data Analysis by Google 
