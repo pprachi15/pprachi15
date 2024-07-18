@@ -1,15 +1,22 @@
 
 # Hello there 👋
-I am Prachi set of graduate in Decemeber 2024 with Computer Science degree, with 4 years of academic experience in software development and data analysis. Proficient in SDLC, Jira, technical writing, and Agile project management. Created 20+ dashboards at DMV, boosting decision-making accuracy by 25%. Certified in Data Analysis by Google and IBM, with consistent Dean’s Honors. Led hackathon teams as Scrum Master and promoted STEM diversity as Society of Women Engineers president. Ready to apply technical expertise and leadership skills to drive strategic business objectives.
+
+<img align="right" alt="coding" width="300" height= "200" src="https://github.com/user-attachments/assets/846d758c-4ccc-4958-8a5c-33b69faa9f29">
+
+I am Prachi, senior Computer Science student with 4 years of academic experience in software development and data analysis. Proficient in SDLC, Jira, technical writing, and Agile project management. Created 20+ dashboards at DMV, boosting decision-making accuracy by 25%. Certified in Data Analysis by Google 
+& IBM, with consistent Dean’s Honors. Led hackathon teams as Scrum Master and promoted STEM diversity serving as Society of Women Engineers president. Ready to apply technical expertise and leadership skills for drive strategic business objectives.
 
 ##  Education 🎓
 
-- **Bachelor of Science, Computer Science**  
-  California State University, Sacramento  
-  GPA: 3.74 (Dean's Honors List)  
-  Anticipated Graduation: December 2024  
-  Related Coursework: Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/846d758c-4ccc-4958-8a5c-33b69faa9f29">
+<img align="left" alt="coding" width="70" height= "100" src="https://github.com/user-attachments/assets/26712ebc-40d8-4d12-842b-49a6a05e349f">
+
+ **Bachelor of Science, Computer Science** | GPA: 3.74 (Dean's Honors List)  
+  California State University, Sacramento | Graduation: December 2024  
+  
+  **Related Coursework:** Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
+
+
+
 
 ## Skills ✨
 
@@ -23,7 +30,6 @@ I am Prachi set of graduate in Decemeber 2024 with Computer Science degree, with
 <img src="https://github.com/pprachi15/introduction/assets/116032314/86cc04c7-f16c-4447-8890-898574556d70" width="80" height="80" />        <!-- Google Cloud -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/363223d3-ba8f-4f0a-9b8f-3185342bedb7" width="80" height="80" />        <!-- Jira -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />        <!-- VS Code -->
-<img src="https://github.com/pprachi15/introduction/assets/116032314/5884efd1-99a0-41e3-b4ac-f92bec7ad40f" width="70" height="70" />        <!-- Github -->
 
 ### Technical Skills
 
@@ -59,16 +65,66 @@ Aug 2023 - Dec 2023
 
 ### Personal Projects 👩🏻‍💼
 
-- [Content Recommendation System](https://github.com/pprachi15/recommendation-app.git)
-- [Supermarket Sales Analysis](https://github.com/pprachi15/Supermarket.Sales.DA.git)
-- [Loan Status Prediction](https://github.com/pprachi15/Loan_Status_Prediction.git)
-- [COVID-19 Data Analysis](https://github.com/pprachi15/COVID-19.Data.Analysis.git)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Content Recommendation System" width="300" height="200" src="https://github.com/user-attachments/assets/0f46d8de-2c56-4cb9-b50d-0e2230243ea8">
+    <br>
+    <a href="https://github.com/pprachi15/recommendation-app.git">Content Recommendation System</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Supermarket Sales Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/13bcde60-067d-4f58-ad73-3a4ba29ab57a">
+    <br>
+    <a href="https://github.com/pprachi15/Supermarket.Sales.DA.git">Supermarket Sales Analysis</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Loan Status Prediction" width="300" height="200" src="https://github.com/user-attachments/assets/5ba5c9a7-2851-4de3-95bf-8026309bc215">
+    <br>
+    <a href="https://github.com/pprachi15/Loan_Status_Prediction.git">Loan Status Prediction</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="COVID-19 Data Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/420c14d1-bc6d-4369-9bbc-884631fdaf34">
+    <br>
+    <a href="https://github.com/pprachi15/COVID-19.Data.Analysis.git">COVID-19 Data Analysis</a>
+</div>
+
+</div>
+
+
+
+
+
 
 ### School Projects 📝
 
-- [Real-time Chat Application](https://github.com/pprachi15/chatbot.git)
-- [AI Hackathon](https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git)
-- [Basic Java Practice](https://github.com/pprachi15/basic_practice.git)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Real-time Chat Application" width="300" height="200" src="https://github.com/user-attachments/assets/c225e31e-31dd-452b-8e0a-cf1fedf2b74d">
+    <br>
+    <a href="https://github.com/pprachi15/chatbot.git">Real Time chat application</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="AI Hackathon" width="300" height="200" src="https://github.com/user-attachments/assets/fb969352-60f5-4a7d-a256-e9b0ad3f0c4c">
+    <br>
+    <a href="https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git">AI Hackathon</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Basic Java Practice" width="300" height="200" src="https://github.com/user-attachments/assets/1d97d1d1-4ecf-4866-a1ec-86036d5b367f">
+    <br>
+    <a href="https://github.com/pprachi15/basic_practice.git">Java Practice</a>
+</div>
+<br>
 
 ## Certifications 📚
 
