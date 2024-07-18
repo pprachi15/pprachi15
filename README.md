@@ -7,7 +7,7 @@ I am Prachi set of graduate in Decemeber 2024 with Computer Science degree, with
 - **Bachelor of Science, Computer Science**  
   California State University, Sacramento  
   GPA: 3.74 (Dean's Honors List)  
-  Anticipated Graduation: Summer 2024  
+  Anticipated Graduation: December 2024  
   Related Coursework: Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
 
 ## Skills ✨
