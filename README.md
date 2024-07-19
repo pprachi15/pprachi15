@@ -93,6 +93,13 @@ Aug 2023 - Dec 2023
     <br>
     <a href="https://github.com/pprachi15/COVID-19.Data.Analysis.git">COVID-19 Data Analysis</a>
 </div>
+<br>
+<div style="flex: 1; text-align: center;">
+    <img alt="Revenue Analysis Dashboard" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
+    <br>
+    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis Dashboard</a>
+</div>
+<br>
 
 </div>
 
