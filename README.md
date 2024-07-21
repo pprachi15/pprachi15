@@ -101,6 +101,13 @@ Aug 2023 - Dec 2023
 </div>
 <br>
 
+<div style="flex: 1; text-align: center;">
+    <img alt="Customer Complaint Dashboard" width="300" height="200" src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4">
+    <br>
+    <a href="https://github.com/pprachi15/complaint.dashboard.git">Customer Complaint Dashboard</a>
+</div>
+<br>
+
 </div>
 
 
