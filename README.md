@@ -95,16 +95,23 @@ Aug 2023 - Dec 2023
 </div>
 <br>
 <div style="flex: 1; text-align: center;">
-    <img alt="Revenue Analysis Dashboard" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
+    <img alt="Revenue Analysis Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
     <br>
-    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis Dashboard</a>
+    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis Analysis</a>
 </div>
 <br>
 
 <div style="flex: 1; text-align: center;">
-    <img alt="Customer Complaint Dashboard" width="300" height="200" src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4">
+    <img alt="Customer Complaint Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4">
     <br>
-    <a href="https://github.com/pprachi15/complaint.dashboard.git">Customer Complaint Dashboard</a>
+    <a href="https://github.com/pprachi15/complaint.dashboard.git">Customer Complaint Analysis</a>
+</div>
+<br>
+
+<div style="flex: 1; text-align: center;">
+    <img alt="Vehicle Crash Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874">
+    <br>
+    <a href="https://github.com/pprachi15/Vehicle.crash.git">Vehicle Crash Analysis</a>
 </div>
 <br>
 
