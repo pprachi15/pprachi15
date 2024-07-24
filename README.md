@@ -95,9 +95,9 @@ Aug 2023 - Dec 2023
 </div>
 <br>
 <div style="flex: 1; text-align: center;">
-    <img alt="Revenue Analysis Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
+    <img alt="Revenue Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
     <br>
-    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis Analysis</a>
+    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis</a>
 </div>
 <br>
 
