@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-<img align="right" alt="coding" width="250" height= "170" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
+<img align="right" alt="coding" width="350" height= "190" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
 
 I am Prachi, senior Computer Science student with 4 years of academic experience in software development and data analysis. Proficient in SDLC, Jira, technical writing, and Agile project management. Created 7+ dashboards at DMV, boosting decision-making accuracy by 25%. Certified in Data Analysis by Google 
 & IBM, with consistent Dean’s Honors. Led hackathon teams as Scrum Master and promoted STEM diversity serving as Society of Women Engineers president. Ready to apply technical expertise and leadership skills for drive strategic business objectives.
