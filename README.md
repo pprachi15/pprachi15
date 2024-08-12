@@ -8,7 +8,7 @@ I am Prachi, senior Computer Science student with 4 years of academic experience
 
 ##  Education 🎓
 
-<img align="left" alt="coding" width="70" height= "100" src="https://github.com/user-attachments/assets/26712ebc-40d8-4d12-842b-49a6a05e349f">
+<img align="left" alt="coding" width="40" height= "60" src="https://github.com/user-attachments/assets/26712ebc-40d8-4d12-842b-49a6a05e349f">
 
  **Bachelor of Science, Computer Science** | GPA: 3.74 (Dean's Honors List)  
   California State University, Sacramento | Graduation: December 2024  
@@ -63,89 +63,26 @@ Aug 2023 - Dec 2023
 
 ## Project Portfolio 💻
 
-### Personal Projects 👩🏻‍💼
+### ML Projects 👩🏻‍💼
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+| Content Recommendation System | Sales Data Analysis | Loan Prediction | COVID-19 Analysis |
+|:-----------------------------:|:-------------------:|:---------------:|:-----------------:|
+| <img src="https://github.com/user-attachments/assets/0f46d8de-2c56-4cb9-b50d-0e2230243ea8" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/13bcde60-067d-4f58-ad73-3a4ba29ab57a" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/5ba5c9a7-2851-4de3-95bf-8026309bc215" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/420c14d1-bc6d-4369-9bbc-884631fdaf34" width="200" height="150"> |
+| [Project Link](https://github.com/pprachi15/recommendation-app.git) | [Project Link](https://github.com/pprachi15/Supermarket.Sales.DA.git) | [Project Link](https://github.com/pprachi15/Loan_Status_Prediction.git) | [Project Link](https://github.com/pprachi15/COVID-19.Data.Analysis.git) |
 
-<div style="flex: 1; text-align: center;">
-    <img alt="Content Recommendation System" width="300" height="200" src="https://github.com/user-attachments/assets/0f46d8de-2c56-4cb9-b50d-0e2230243ea8">
-    <br>
-    <a href="https://github.com/pprachi15/recommendation-app.git">Content Recommendation System</a>
-</div>
-<br>
+### Data Visualizations 📊
 
-<div style="flex: 1; text-align: center;">
-    <img alt="Supermarket Sales Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/13bcde60-067d-4f58-ad73-3a4ba29ab57a">
-    <br>
-    <a href="https://github.com/pprachi15/Supermarket.Sales.DA.git">Supermarket Sales Analysis</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="Loan Status Prediction" width="300" height="200" src="https://github.com/user-attachments/assets/5ba5c9a7-2851-4de3-95bf-8026309bc215">
-    <br>
-    <a href="https://github.com/pprachi15/Loan_Status_Prediction.git">Loan Status Prediction</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="COVID-19 Data Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/420c14d1-bc6d-4369-9bbc-884631fdaf34">
-    <br>
-    <a href="https://github.com/pprachi15/COVID-19.Data.Analysis.git">COVID-19 Data Analysis</a>
-</div>
-<br>
-<div style="flex: 1; text-align: center;">
-    <img alt="Revenue Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc">
-    <br>
-    <a href="https://github.com/pprachi15/revenue.analysis.git">Revenue Analysis</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="Customer Complaint Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4">
-    <br>
-    <a href="https://github.com/pprachi15/complaint.dashboard.git">Customer Complaint Analysis</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="Vehicle Crash Analysis" width="300" height="200" src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874">
-    <br>
-    <a href="https://github.com/pprachi15/Vehicle.crash.git">Vehicle Crash Analysis</a>
-</div>
-<br>
-
-</div>
-
-
-
-
-
+| Revenue Analysis | Customer Complaint Analysis | Vehicle Crash Analysis |
+|:----------------:|:----------------------------:|:----------------------:|
+| <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874" width="200" height="150"> |
+| [Project Link](https://github.com/pprachi15/revenue.analysis.git) | [Project Link](https://github.com/pprachi15/complaint.dashboard.git) | [Project Link](https://github.com/pprachi15/Vehicle.crash.git) |
 
 ### School Projects 📝
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<div style="flex: 1; text-align: center;">
-    <img alt="Real-time Chat Application" width="300" height="200" src="https://github.com/user-attachments/assets/c225e31e-31dd-452b-8e0a-cf1fedf2b74d">
-    <br>
-    <a href="https://github.com/pprachi15/chatbot.git">Real Time chat application</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="AI Hackathon" width="300" height="200" src="https://github.com/user-attachments/assets/fb969352-60f5-4a7d-a256-e9b0ad3f0c4c">
-    <br>
-    <a href="https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git">AI Hackathon</a>
-</div>
-<br>
-
-<div style="flex: 1; text-align: center;">
-    <img alt="Basic Java Practice" width="300" height="200" src="https://github.com/user-attachments/assets/1d97d1d1-4ecf-4866-a1ec-86036d5b367f">
-    <br>
-    <a href="https://github.com/pprachi15/basic_practice.git">Java Practice</a>
-</div>
-<br>
+| Real-time Chat Application | AI Hackathon | Java Practice |
+|:--------------------------:|:------------:|:-------------:|
+| <img src="https://github.com/user-attachments/assets/c225e31e-31dd-452b-8e0a-cf1fedf2b74d" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/fb969352-60f5-4a7d-a256-e9b0ad3f0c4c" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/1d97d1d1-4ecf-4866-a1ec-86036d5b367f" width="200" height="150"> |
+| [Project Link](https://github.com/pprachi15/chatbot.git) | [Project Link](https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git) | [Project Link](https://github.com/pprachi15/basic_practice.git) |
 
 ## Certifications 📚
 
@@ -157,3 +94,4 @@ Aug 2023 - Dec 2023
 
 - Revitalized Society of Women Engineers club, awarded $3000 scholarship for volunteering.
 - Led AI Hackathon as Scrum Master, honored with the “Most Thoughtful Project” Award.
+
