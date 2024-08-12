@@ -41,7 +41,7 @@ Data cleaning, preparation and visualization; extracting insights and identifyin
 
 ### Tools
 
-Object-oriented programming, Data Structures, Algorithms, Agile methodologies, Git, DBMS, Jira, Lucid chart, Draw.io, SPSS, Figma
+OOP, Data Structures, Algorithms, Agile methodologies, Git, DBMS, Jira, Lucid chart, Draw.io, SPSS, Figma
 
 ## Experience 👩🏻‍💻
 
