@@ -11,7 +11,7 @@ I am Prachi, senior Computer Science student with 4 years of academic experience
 <img align="left" alt="coding" width="75" height= "90" src="https://github.com/user-attachments/assets/26712ebc-40d8-4d12-842b-49a6a05e349f">
 
  **Bachelor of Science, Computer Science** | GPA: 3.74 (Dean's Honors List)  
-  California State University, Sacramento | Graduation: December 2024  
+  California State University, Sacramento | Graduation: Dec 2024  
   
   **Related Coursework:** Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
 
