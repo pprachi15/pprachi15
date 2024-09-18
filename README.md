@@ -49,6 +49,7 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 ## Experience 👩🏻‍💻
 ### Program Management and Analytics Intern, Tesla, Nevada	
 Aug 2024 – Present
+- Analytics Project: Tasked with creating the first Semi Service Advisor Dashboard and identifying efficiency metrics, building reports for our heavy-duty service technicians.
 - Creating a prioritized roadmap for technical training needs for program partners internally and externally.
 - Working with subject matter experts and leadership to define objectives and build technical needs for technicians.
 - Coordinating with internal teams to produce technical content focused on safety and customer experience.
@@ -101,6 +102,7 @@ Aug 2023 - Dec 2023
 
 ## Achievements 📈
 
+- Earned Best Intern Badge at DMV for excellence in data analytics and leading successful program management initiatives.
 - Revitalized Society of Women Engineers club, awarded $3000 scholarship for volunteering.
 - Led AI Hackathon as Scrum Master, honored with the “Most Thoughtful Project” Award.
 
