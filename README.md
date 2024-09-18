@@ -3,8 +3,9 @@
 
 <img align="right" alt="coding" width="330" height= "190" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
 
-I'm Prachi, a senior Computer Science student with 4 years of experience in software development and data analysis. I’m proficient in SDLC, Jira, technical writing, and Agile project management. At the DMV, I developed over 7 dashboards, improving decision-making accuracy by 25%. 
-<br> I hold certifications in Data Analysis from Google and IBM and have consistently been on the Dean’s Honors list. As a Scrum Master, I led hackathon teams and advanced STEM diversity as president of the Society of Women Engineers. I’m eager to apply my technical expertise and leadership skills to drive strategic business objectives.
+Computer Science senior with 4 years of academic experience in software development and data analysis. Proficient in SQL, Python, Tableau and ETL. Created technical programs at Tesla and 
+over 8 interactive dashboards at DMV for improved decision making. 
+Consistent part of Dean’s Honors list for excellent academics. Eager to apply strong analytical skills to drive business insights.
 
 
 
@@ -35,35 +36,39 @@ I'm Prachi, a senior Computer Science student with 4 years of experience in soft
 <img src="https://github.com/pprachi15/introduction/assets/116032314/363223d3-ba8f-4f0a-9b8f-3185342bedb7" width="80" height="80" />        <!-- Jira -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />        <!-- VS Code -->
 
-### Technical Skills
-
+### Technical Skills: 
 SQL, Python, HTML, CSS, Oracle, Azure, Tableau, Power BI, ETL, EDA
-
-### Analytical Skills
-
+### Analytical Skills: 
 Data cleaning, preparation and visualization; extracting insights and identifying trends from complex datasets.
+### Tools: 
+Object oriented programming, Data Structures, Algorithms, Agile methodologies, SDLC, Git, DBMS, Jira, Lucid chart, Figma
+### Microsoft Tools: 
+Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 
-### Tools
-
-OOP, Data Structures, Algorithms, Agile methodologies, Git, DBMS, Jira, Lucid chart, Draw.io, SPSS, Figma
 
 ## Experience 👩🏻‍💻
+### Program Management and Analytics Intern, Tesla, Nevada	
+Aug 2024 – Present
+- Creating a prioritized roadmap for technical training needs for program partners internally and externally.
+- Working with subject matter experts and leadership to define objectives and build technical needs for technicians.
+- Coordinating with internal teams to produce technical content focused on safety and customer experience.
+- Working with customers to gather feedback on training content.
 
-### Research Data Analyst, The Office of President, CSU Sacramento  
-Jun 2023 – Present
-- Optimized ETL workflows using SQL and Python, reducing data processing time and improving analysis efficiency by 35%.
+### Research Data Analyst Intern, California State University, Sacramento			  
+Apr 2023 - Jul 2024
 - Created process models and UML diagrams with Microsoft Visio resulting in enhanced system architecture understanding.
-- Utilized Jira for project tracking and documentation, improving team collaboration and increasing project visibility.
-- Led requirements gathering session using Lucid chart, leading clear process mapping and reduced misunderstandings.
-- Scaled data-operations with cross functional teams, boosting system capacity by 40% while maintaining performance
+- Implementing 250+ SQL queries for data cleaning, enhancing data quality for accurate forecasting models.
+- Scaled data operations with cross functional teams, system capacity boosted by 40% while maintaining performance.
 
-
-### Data Analyst Intern, Department of Motor Vehicles, Sacramento  
+### Data Analyst Intern, Department of Motor Vehicles, California					          
 Aug 2023 - Dec 2023
-- Developed Tableau dashboards to visualize vehicle crash patterns, facilitating strategic planning.
-- Implemented 250+ SQL queries for data cleaning, enhancing data quality for accurate forecasting models.
-- Collaborated with IT team to resolve technical issues, improving data reliability by 25%.
+- Developed over 8 Tableau dashboards to present insights on vehicles crash patterns, facilitating strategic planning.
+- Optimized ETL workflows using SQL, reducing data processing time and improving analysis efficiency by 35%.
+- Utilized Jira for project tracking and documentation, improving team collaboration and increasing project visibility.
+- Collaborated with IT team to resolve complex technical issues minimizing downtime and enhancing data reliability by 25%.
 - Delivered weekly presentations to track project progress and outline upcoming requirement fostering clear communication.
+
+
 
 ## Project Portfolio 💻
 
