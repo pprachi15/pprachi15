@@ -73,7 +73,7 @@ Aug 2023 - Dec 2023
 
 ## Project Portfolio 💻
 
-### ML Projects 👩🏻‍💼
+### Data Analysis with Python👩🏻‍💼
 
 | Content Recommendation System | Sales Data Analysis | Loan Prediction | COVID-19 Analysis |
 |:-----------------------------:|:-------------------:|:---------------:|:-----------------:|
