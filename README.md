@@ -82,10 +82,10 @@ Aug 2023 - Dec 2023
 
 ### Data Visualizations 📊
 
-| Revenue Analysis | Customer Complaint Analysis | Vehicle Crash Analysis |
-|:----------------:|:----------------------------:|:----------------------:|
-| <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874" width="200" height="150"> |
-| [Project Link](https://github.com/pprachi15/revenue.analysis.git) | [Project Link](https://github.com/pprachi15/complaint.dashboard.git) | [Project Link](https://github.com/pprachi15/Vehicle.crash.git) |
+| Revenue Analysis | Customer Complaint Analysis | Vehicle Crash Analysis | Electric Vehicle Data Analysis
+|:----------------:|:----------------------------:|:----------------------:|:----------------------:|
+| <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874" width="200" height="150"> |<img src="https://github.com/user-attachments/assets/bfeb73a7-0fb5-4a08-8cc0-9c6bf264cbd0" width="200" height="150"> |
+| [Project Link](https://github.com/pprachi15/revenue.analysis.git) | [Project Link](https://github.com/pprachi15/complaint.dashboard.git) | [Project Link](https://github.com/pprachi15/Vehicle.crash.git) | [Project Link](https://github.com/pprachi15/EV-Data-Analysis.git) |
 
 ### School Projects 📝
 
