@@ -55,11 +55,6 @@ Aug 2024 – Present
 - Coordinating with internal teams to produce technical content focused on safety and customer experience.
 - Working with customers to gather feedback on training content.
 
-### Research Data Analyst Intern, California State University, Sacramento			  
-Apr 2023 - Jul 2024
-- Created process models and UML diagrams with Microsoft Visio resulting in enhanced system architecture understanding.
-- Implementing 250+ SQL queries for data cleaning, enhancing data quality for accurate forecasting models.
-- Scaled data operations with cross functional teams, system capacity boosted by 40% while maintaining performance.
 
 ### Data Analyst Intern, Department of Motor Vehicles, California					          
 Aug 2023 - Dec 2023
