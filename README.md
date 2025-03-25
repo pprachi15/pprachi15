@@ -1,11 +1,17 @@
 
-# Hello there 👋
 
-<img align="right" alt="coding" width="330" height= "190" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
+<img align="right" alt="coding" width="500" height= "280" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
 
-Computer Science senior with 4 years of academic experience in software development and data analysis. Proficient in SQL, Python, Tableau and ETL. Created technical programs at Tesla and 
-over 8 interactive dashboards at DMV for improved decision making. 
-Consistent part of Dean’s Honors list for excellent academics. Eager to apply strong analytical skills to drive business insights.
+### 👋 Hi, I'm Prachi
+
+I'm a **Strategic Data Analyst** with a passion for **business intelligence, data-driven decision-making, and project management**. With hands-on experience in **SQL, Python, Tableau, ETL, and workflow automation**, I specialize in transforming complex data into **actionable insights that drive business success**.  
+
+💡 **Career Goals:**  
+Aspiring to transition into a **Business Intelligence Analyst** or **Program/Project Manager** role, where I can blend my **analytical expertise and project leadership skills** to optimize operations, streamline workflows, and enhance decision-making.  
+
+🔹 **Core Strengths:** Data Analytics | Business Intelligence | Project Management | Process Optimization | Dashboard Development  
+
+I'm eager to apply my **technical expertise and strategic mindset** to roles that bridge the gap between **data, operations, and business strategy**. Let’s connect and collaborate! 🚀  
 
 
 
@@ -47,22 +53,34 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 
 
 ## Experience 👩🏻‍💻
-### Program Management and Analytics Intern, Tesla, Nevada	
-Aug 2024 – Present
-- Analytics Project: Tasked with creating the first Semi Service Advisor Dashboard and identifying efficiency metrics, building reports for our heavy-duty service technicians.
-- Creating a prioritized roadmap for technical training needs for program partners internally and externally.
-- Working with subject matter experts and leadership to define objectives and build technical needs for technicians.
-- Coordinating with internal teams to produce technical content focused on safety and customer experience.
-- Working with customers to gather feedback on training content.
+## Work Experience  
 
+### Strategic Data Analyst - California State University, Sacramento, California  
+**February 2025 – Present**  
+- Coordinated Grad Fest event logistics, designed and launched Qualtrics surveys, and engaged attendees to collect actionable data and feedback, driving enhancements to post-graduation services.  
+- Developed interactive Tableau dashboards for staff and faculty, providing real-time insights into institutional performance, graduation rates, and financial aid distribution to support data-driven decision-making.  
+- Utilized PeopleSoft and Toad for Oracle to extract and analyze university class schedules, student enrollments, academic performance, and financial data, ensuring timely, FERPA-compliant reporting for stakeholders.  
+- Streamlined team collaboration by developing centralized Notion workspaces, organizing key databases and university documentation, significantly improving workflow efficiency.  
+- Created Visio flowcharts to document student administration and financial aid processes, enhancing compliance and efficiency.  
 
-### Data Analyst Intern, Department of Motor Vehicles, California					          
-Aug 2023 - Dec 2023
-- Developed over 8 Tableau dashboards to present insights on vehicles crash patterns, facilitating strategic planning.
-- Optimized ETL workflows using SQL, reducing data processing time and improving analysis efficiency by 35%.
-- Utilized Jira for project tracking and documentation, improving team collaboration and increasing project visibility.
-- Collaborated with IT team to resolve complex technical issues minimizing downtime and enhancing data reliability by 25%.
-- Delivered weekly presentations to track project progress and outline upcoming requirement fostering clear communication.
+### Program Management Intern - Tesla, Sparks, Nevada  
+**August 2024 – December 2024**  
+- Led cross-functional teams to deliver complex projects on time and within budget by managing Jira backlogs, defining sprint goals, and tracking dependencies. Ensured alignment with OKRs to drive efficiency, mitigate risks, and meet business objectives.  
+- Developed KPIs (Key Performance Indicators) for service advisor dashboards, automating reports to track technician efficiency, part utilization, and performance. This initiative reduced manual tracking efforts and improved operational insights.  
+- Created project roadmaps in Visio and Lucidchart, aligning internal teams & external vendors on key milestones & timelines.  
+- Implemented a centralized SharePoint document management system, enhancing cross-team collaboration, streamlining project workflows, and ensuring secure access to critical project resources, links, and data.  
+- Collaborated with IT to resolve complex system issues, minimizing downtime, improving data reliability, and service efficiency.  
+- Led process optimization by creating an Excel-based tracking system for customer interactions. Conducted gap analysis to compare the product’s current state vs. future state, identifying service inefficiencies, delays, and payment issues before product launch.  
+- Established and maintained **RACI (Responsible, Accountable, Consulted, Informed)** and **TRL (Technical Readiness Level)** frameworks to clarify team roles, enhance accountability, and optimize resource allocation for long-term program success.  
+- Initiated weekly newsletters to update and educate teams, collaborating with Subject Matter Experts to ensure content accuracy.  
+
+### Data Analyst Intern- Department of Motor Vehicles, Sacramento, California 		                        
+**August 2023 – December 2023**
+- Developed Tableau dashboards to analyze vehicles crashes, visualizing trends such as accidents over time, location, types of accident, and identifying common factors across accidents, supporting strategic planning for risk mitigation.
+- Optimized ETL workflows using SQL to analyze large datasets identifying vehicle companies with highest incident rates.
+- Delivered weekly presentations to track project progress and outline upcoming requirements for clear communication.
+- Streamlined vehicle data workflow in Oracle, leading process improvements that reduced reporting turnaround times by 40%, enhancing operational efficiency and meeting project deadlines.
+
 
 
 
