@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="coding" width="500" height= "280" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
+<img align="right" alt="coding" width="450" height= "300" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
 
 ### 👋 Hi, I'm Prachi
 
