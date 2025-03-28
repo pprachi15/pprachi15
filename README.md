@@ -9,7 +9,7 @@ I'm a **Strategic Data Analyst** with a passion for **business intelligence, dat
 💡 **Career Goals:**  
 Aspiring to transition into a **Business Intelligence Analyst** or **Program/Project Manager** role, where I can blend my **analytical expertise and project leadership skills** to optimize operations, streamline workflows, and enhance decision-making.  
 
-🔹 **Core Strengths:** Data Analytics | Business Intelligence | Project Management | Process Optimization | Dashboard Development  
+🔹 **Core Strengths:**  Project Management | Data Analytics | Business Intelligence | Process Optimization | Dashboard Development  
 
 I'm eager to apply my **technical expertise and strategic mindset** to roles that bridge the gap between **data, operations, and business strategy**. Let’s connect and collaborate! 🚀  
 
