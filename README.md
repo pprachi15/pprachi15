@@ -7,7 +7,7 @@
 I'm a **Strategic Data Analyst** with a passion for **business intelligence, data-driven decision-making, and project management**. With hands-on experience in **SQL, Python, Tableau, ETL, and workflow automation**, I specialize in transforming complex data into **actionable insights that drive business success**.  
 
 💡 **Career Goals:**  
-Aspiring to transition into a **Business Intelligence Analyst** or **Program/Project Manager** role, where I can blend my **analytical expertise and project leadership skills** to optimize operations, streamline workflows, and enhance decision-making.  
+Aspiring to transition into a **Program/Project Manager** role, where I can blend my **analytical expertise and project leadership skills** to optimize operations, streamline workflows, and enhance decision-making.  
 
 🔹 **Core Strengths:**  Project Management | Data Analytics | Business Intelligence | Process Optimization | Dashboard Development  
 
