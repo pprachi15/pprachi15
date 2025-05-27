@@ -52,8 +52,8 @@ Object oriented programming, Data Structures, Algorithms, Agile methodologies, S
 Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 
 
-## Experience 👩🏻‍💻
-## Work Experience  
+
+## Work Experience 👩🏻‍💻
 
 ### Strategic Data Analyst - California State University, Sacramento, California  
 **February 2025 – Present**  
