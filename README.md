@@ -93,6 +93,11 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img src="https://github.com/user-attachments/assets/0f46d8de-2c56-4cb9-b50d-0e2230243ea8" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/13bcde60-067d-4f58-ad73-3a4ba29ab57a" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/5ba5c9a7-2851-4de3-95bf-8026309bc215" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/420c14d1-bc6d-4369-9bbc-884631fdaf34" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/recommendation-app.git) | [Project Link](https://github.com/pprachi15/Supermarket.Sales.DA.git) | [Project Link](https://github.com/pprachi15/Loan_Status_Prediction.git) | [Project Link](https://github.com/pprachi15/COVID-19.Data.Analysis.git) |
 
+| Netflix Movie Release Analysis | 
+|:-----------------------------:|
+| <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/3036b19b-7d3e-4ec2-aae0-545fb82a654a" /> |
+| [Project Link](https://github.com/pprachi15/netflix-movie-eda.git) | 
+
 ### Data Visualizations 📊
 
 | Revenue Analysis | Customer Complaint Analysis | Vehicle Crash Analysis | Electric Vehicle Data Analysis
