@@ -93,10 +93,10 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img src="https://github.com/user-attachments/assets/0f46d8de-2c56-4cb9-b50d-0e2230243ea8" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/13bcde60-067d-4f58-ad73-3a4ba29ab57a" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/5ba5c9a7-2851-4de3-95bf-8026309bc215" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/420c14d1-bc6d-4369-9bbc-884631fdaf34" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/recommendation-app.git) | [Project Link](https://github.com/pprachi15/Supermarket.Sales.DA.git) | [Project Link](https://github.com/pprachi15/Loan_Status_Prediction.git) | [Project Link](https://github.com/pprachi15/COVID-19.Data.Analysis.git) |
 
-| Netflix Movie Release Analysis | Fleet Management Dashboard | Vehicle Maintenance Cost Analysis
-|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/3036b19b-7d3e-4ec2-aae0-545fb82a654a" /> |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/691b2e72-4799-44dd-af95-cf3ac3103a2f" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/1cb6345d-e3e1-438d-bcb4-4263e7146627" /> |
-| [Project Link](https://github.com/pprachi15/netflix-movie-eda.git) | [Project Link](https://github.com/pprachi15/Fleet_Management.git) | [Project Link](https://github.com/pprachi15/Vehicle-Maintenance-Cost-Analysis.git) | 
+| Netflix Movie Release Analysis | Vehicle Maintenance Cost Analysis
+|:-----------------------------:|:-----------------------------:|
+| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/3036b19b-7d3e-4ec2-aae0-545fb82a654a" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/1cb6345d-e3e1-438d-bcb4-4263e7146627" /> |
+| [Project Link](https://github.com/pprachi15/netflix-movie-eda.git) | [Project Link](https://github.com/pprachi15/Vehicle-Maintenance-Cost-Analysis.git) | 
 
 ### Data Visualizations 📊
 
@@ -105,10 +105,10 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874" width="200" height="150"> |<img src="https://github.com/user-attachments/assets/bfeb73a7-0fb5-4a08-8cc0-9c6bf264cbd0" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/revenue.analysis.git) | [Project Link](https://github.com/pprachi15/complaint.dashboard.git) | [Project Link](https://github.com/pprachi15/Vehicle.crash.git) | [Project Link](https://github.com/pprachi15/EV-Data-Analysis.git) |
 
-| Data Request Tracker - Airtable | 
-|:-------------------:|
-| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7b41588-1a0b-4e78-af0b-e1702c423961" /> | 
-| [Project Link](https://github.com/pprachi15/Airtable_data_request_tracker.git) |
+| Data Request Tracker - Airtable | Fleet Management Dashboard |
+|:-------------------:|:-----------------------------:|
+| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7b41588-1a0b-4e78-af0b-e1702c423961" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/691b2e72-4799-44dd-af95-cf3ac3103a2f" /> |
+| [Project Link](https://github.com/pprachi15/Airtable_data_request_tracker.git) |[Project Link](https://github.com/pprachi15/Fleet_Management.git) | 
 
 
 ### School Projects 📝
