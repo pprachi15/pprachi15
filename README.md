@@ -14,20 +14,7 @@ Aspiring to transition into a **Program/Project Manager** role, where I can blen
 I'm eager to apply my **technical expertise and strategic mindset** to roles that bridge the gap between **data, operations, and business strategy**. Let’s connect and collaborate! 🚀  
 
 
-
 <br>
-
-##  Education 🎓
-
-<img align="left" alt="coding" width="75" height= "90" src="https://github.com/user-attachments/assets/26712ebc-40d8-4d12-842b-49a6a05e349f">
-
- **Bachelor of Science, Computer Science** | GPA: 3.74 (Dean's Honors List)  
-  California State University, Sacramento | Graduation: Dec 2024  
-  
-  **Related Coursework:** Statistics, Data Analytics and Mining, Database Management Systems, Software Requirements and Specification.
-
-
-
 
 ## Skills ✨
 
@@ -51,37 +38,7 @@ Object oriented programming, Data Structures, Algorithms, Agile methodologies, S
 ### Microsoft Tools: 
 Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 
-
-
-## Work Experience 👩🏻‍💻
-
-### Strategic Data Analyst - California State University, Sacramento, California  
-**February 2025 – Present**  
-- Coordinated Grad Fest event logistics, designed and launched Qualtrics surveys, and engaged attendees to collect actionable data and feedback, driving enhancements to post-graduation services.  
-- Developed interactive Tableau dashboards for staff and faculty, providing real-time insights into institutional performance, graduation rates, and financial aid distribution to support data-driven decision-making.  
-- Utilized PeopleSoft and Toad for Oracle to extract and analyze university class schedules, student enrollments, academic performance, and financial data, ensuring timely, FERPA-compliant reporting for stakeholders.  
-- Streamlined team collaboration by developing centralized Notion workspaces, organizing key databases and university documentation, significantly improving workflow efficiency.  
-- Created Visio flowcharts to document student administration and financial aid processes, enhancing compliance and efficiency.  
-
-### Program Management Intern - Tesla, Sparks, Nevada  
-**August 2024 – December 2024**  
-- Led cross-functional teams to deliver complex projects on time and within budget by managing Jira backlogs, defining sprint goals, and tracking dependencies. Ensured alignment with OKRs to drive efficiency, mitigate risks, and meet business objectives.  
-- Developed KPIs (Key Performance Indicators) for service advisor dashboards, automating reports to track technician efficiency, part utilization, and performance. This initiative reduced manual tracking efforts and improved operational insights.  
-- Created project roadmaps in Visio and Lucidchart, aligning internal teams & external vendors on key milestones & timelines.  
-- Implemented a centralized SharePoint document management system, enhancing cross-team collaboration, streamlining project workflows, and ensuring secure access to critical project resources, links, and data.  
-- Collaborated with IT to resolve complex system issues, minimizing downtime, improving data reliability, and service efficiency.  
-- Led process optimization by creating an Excel-based tracking system for customer interactions. Conducted gap analysis to compare the product’s current state vs. future state, identifying service inefficiencies, delays, and payment issues before product launch.  
-- Established and maintained **RACI (Responsible, Accountable, Consulted, Informed)** and **TRL (Technical Readiness Level)** frameworks to clarify team roles, enhance accountability, and optimize resource allocation for long-term program success.  
-- Initiated weekly newsletters to update and educate teams, collaborating with Subject Matter Experts to ensure content accuracy.  
-
-### Data Analyst Intern- Department of Motor Vehicles, Sacramento, California 		                        
-**August 2023 – December 2023**
-- Developed Tableau dashboards to analyze vehicles crashes, visualizing trends such as accidents over time, location, types of accident, and identifying common factors across accidents, supporting strategic planning for risk mitigation.
-- Optimized ETL workflows using SQL to analyze large datasets identifying vehicle companies with highest incident rates.
-- Delivered weekly presentations to track project progress and outline upcoming requirements for clear communication.
-- Streamlined vehicle data workflow in Oracle, leading process improvements that reduced reporting turnaround times by 40%, enhancing operational efficiency and meeting project deadlines.
-
-
+<br>
 
 
 ## Project Portfolio 💻
@@ -117,16 +74,4 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 |:--------------------------:|:------------:|:-------------:|
 | <img src="https://github.com/user-attachments/assets/c225e31e-31dd-452b-8e0a-cf1fedf2b74d" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/fb969352-60f5-4a7d-a256-e9b0ad3f0c4c" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/1d97d1d1-4ecf-4866-a1ec-86036d5b367f" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/chatbot.git) | [Project Link](https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git) | [Project Link](https://github.com/pprachi15/basic_practice.git) |
-
-## Certifications 📚
-
-- Python Bootcamp (Udemy)
-- Google Advanced Data Analytics
-- IBM Data Science
-
-## Achievements 📈
-
-- Earned Best Intern Badge at DMV for excellence in data analytics and leading successful program management initiatives.
-- Revitalized Society of Women Engineers club, awarded $3000 scholarship for volunteering.
-- Led AI Hackathon as Scrum Master, honored with the “Most Thoughtful Project” Award.
 
