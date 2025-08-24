@@ -62,10 +62,10 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a4f83ada-af24-4464-8982-6e86d6b16ab4" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/a02fd5b6-d2f5-4169-b7e1-91f5da15d874" width="200" height="150"> |<img src="https://github.com/user-attachments/assets/bfeb73a7-0fb5-4a08-8cc0-9c6bf264cbd0" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/revenue.analysis.git) | [Project Link](https://github.com/pprachi15/complaint.dashboard.git) | [Project Link](https://github.com/pprachi15/Vehicle.crash.git) | [Project Link](https://github.com/pprachi15/EV-Data-Analysis.git) |
 
-| Data Request Tracker - Airtable | Fleet Management Dashboard | Resource & Capacity Planning Dashboard |
-|:-------------------:|:-----------------------------:|:-----------------------------:|
-| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7b41588-1a0b-4e78-af0b-e1702c423961" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/691b2e72-4799-44dd-af95-cf3ac3103a2f" /> |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5e9143b2-0e3d-4e90-a334-6bad68d3e06c" /> |
-| [Project Link](https://github.com/pprachi15/Airtable_data_request_tracker.git) |[Project Link](https://github.com/pprachi15/Fleet_Management.git) | [Project Link](https://github.com/pprachi15/Resource-and-Capacity-Planning.git) | 
+| Data Request Tracker - Airtable | Fleet Management | Resource & Capacity Planning | Semiconductor Yield & Reliability |
+|:-------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7b41588-1a0b-4e78-af0b-e1702c423961" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/691b2e72-4799-44dd-af95-cf3ac3103a2f" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5e9143b2-0e3d-4e90-a334-6bad68d3e06c" /> |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/0cc1d28b-2707-459a-b586-ef72cd4ac157" /> |
+| [Project Link](https://github.com/pprachi15/Airtable_data_request_tracker.git) |[Project Link](https://github.com/pprachi15/Fleet_Management.git) | [Project Link](https://github.com/pprachi15/Resource-and-Capacity-Planning.git) | [Project Link](https://github.com/pprachi15/Semiconductor-Yield-Reliability-Dashboard.git) | 
 
 
 ### School Projects 📝
