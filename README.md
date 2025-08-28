@@ -67,6 +67,10 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7b41588-1a0b-4e78-af0b-e1702c423961" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/691b2e72-4799-44dd-af95-cf3ac3103a2f" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5e9143b2-0e3d-4e90-a334-6bad68d3e06c" /> |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/0cc1d28b-2707-459a-b586-ef72cd4ac157" /> |
 | [Project Link](https://github.com/pprachi15/Airtable_data_request_tracker.git) |[Project Link](https://github.com/pprachi15/Fleet_Management.git) | [Project Link](https://github.com/pprachi15/Resource-and-Capacity-Planning.git) | [Project Link](https://github.com/pprachi15/Semiconductor-Yield-Reliability-Dashboard.git) | 
 
+| Insurance Business Insights | UAT Defect Tracker | 
+|:-------------------:|:-----------------------------:|
+| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/f8d25c0a-32a6-4cf5-8a0d-73276077c0a1" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/18097893-3fef-4433-a0cd-751f94537520" />| 
+| [Project Link](https://github.com/pprachi15/Insurance-Business-Insights-Dashboard.git) |[Project Link](https://github.com/pprachi15/UAT-Defect-Tracker-Dashboard.git) | 
 
 ### School Projects 📝
 
