@@ -72,6 +72,14 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/f8d25c0a-32a6-4cf5-8a0d-73276077c0a1" /> | <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/18097893-3fef-4433-a0cd-751f94537520" />| 
 | [Project Link](https://github.com/pprachi15/Insurance-Business-Insights-Dashboard.git) |[Project Link](https://github.com/pprachi15/UAT-Defect-Tracker-Dashboard.git) | 
 
+### Excel 🧙‍♀️
+
+| Solar Energy Analysis  | Service Distribution Readiness | 
+|:-------------------:|:-----------------------------:|
+| <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/6d8549ac-72be-430c-bb73-39ac79c125e2" /> | <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/1ab828b1-86a0-4148-9590-9dae3ae092e1" /> | 
+| [Project Link](https://github.com/pprachi15/Tesla_inspired_Solar_Energy_Analysis.git) |[Project Link](https://github.com/pprachi15/Service-Distribution-Readiness-Excel.git) | 
+
+
 ### School Projects 📝
 
 | Real-time Chat Application | AI Hackathon | Java Practice |
