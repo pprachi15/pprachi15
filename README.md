@@ -2,14 +2,19 @@
 
 <img align="right" alt="coding" width="450" height= "300" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953">
 
-### 👋 Hi, I'm Prachi
+### # 👋 Hi, I'm Prachi  
 
-I'm a **Strategic Data Analyst** with a passion for **business intelligence, data-driven decision-making, and project management**. With hands-on experience in **SQL, Python, Tableau, ETL, and workflow automation**, I specialize in transforming complex data into **actionable insights that drive business success**.  
+I’m a **Strategic Data Analyst** passionate about transforming data into **insights, strategy, and impact**.  
+With hands-on expertise in **SQL, Python, Tableau, Power BI, and workflow automation**, I specialize in building **dashboards, KPIs, and predictive models** that solve real problems and guide better decisions.  
 
-💡 **Career Goals:**  
-Aspiring to transition into a **Program/Project Manager** role, where I can blend my **analytical expertise and project leadership skills** to optimize operations, streamline workflows, and enhance decision-making.  
+But beyond the technical side, I thrive where **data meets leadership**:  
+- Leading projects (Tesla Semi Service readiness, CSU strategic dashboards).  
+- Coordinating teams (AI Hackathon Project Manager, SWE President).  
+- Driving inclusion and impact (Women in STEM Program Coordinator, Women of Influence Honoree).  
 
-🔹 **Core Strengths:**  Project Management | Data Analytics | Business Intelligence | Process Optimization | Dashboard Development  
+🚀 **My Mission:** To grow into an **Engineering Management leader** who can bridge analytics, operations, and business strategy, creating systems where data-driven insights lead to smarter, more efficient organizations.  
+
+🔹 **Core Strengths:**  Engineering Management | Data Analytics | Business Intelligence | Process Optimization | Dashboard Development  
 
 I'm eager to apply my **technical expertise and strategic mindset** to roles that bridge the gap between **data, operations, and business strategy**. Let’s connect and collaborate! 🚀  
 
@@ -30,11 +35,11 @@ I'm eager to apply my **technical expertise and strategic mindset** to roles tha
 <img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />        <!-- VS Code -->
 
 ### Technical Skills: 
-SQL, Python, HTML, CSS, Oracle, Azure, Tableau, Power BI, ETL, EDA
+SQL, Python, HTML, CSS, Java
 ### Analytical Skills: 
 Data cleaning, preparation and visualization; extracting insights and identifying trends from complex datasets.
 ### Tools: 
-Object oriented programming, Data Structures, Algorithms, Agile methodologies, SDLC, Git, DBMS, Jira, Lucid chart, Figma
+Tableau, Power BI, Jira, Notion, SharePoint, Confluence, PeopleSoft/Oracle, Toad, Salesforce, Figma, Qualtrics
 ### Microsoft Tools: 
 Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 
@@ -86,4 +91,5 @@ Word, Excel, PowerPoint, Teams, Outlook, Visual Studio IDE, Visio, OneNote
 |:--------------------------:|:------------:|:-------------:|
 | <img src="https://github.com/user-attachments/assets/c225e31e-31dd-452b-8e0a-cf1fedf2b74d" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/fb969352-60f5-4a7d-a256-e9b0ad3f0c4c" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/1d97d1d1-4ecf-4866-a1ec-86036d5b367f" width="200" height="150"> |
 | [Project Link](https://github.com/pprachi15/chatbot.git) | [Project Link](https://github.com/AdibaAdi/AI_hackathon-Scholarly-App.git) | [Project Link](https://github.com/pprachi15/basic_practice.git) |
+
 
