@@ -1,15 +1,18 @@
-
+<img align="left" alt="coding" width="400" height= "400" src="https://github.com/user-attachments/assets/f457b418-a685-48c6-9fbe-f5856d0e7105"> 
 <!-- 
 <img align="right" alt="coding" width="400" height= "400" src="https://github.com/user-attachments/assets/6854b357-01ef-4562-bcab-26e4a0061953"> 
-<img src="https://github.com/user-attachments/assets/da57a2e0-65dd-43e1-9bd0-d46740799cbf" width="1000" height="300" /> -->
+<img src="https://github.com/user-attachments/assets/da57a2e0-65dd-43e1-9bd0-d46740799cbf" width="1000" height="300" 
+<img src="https://github.com/user-attachments/assets/b909d4a2-16a4-4e25-bfa4-3e4c1654b4a7" width="1000" height="300"/> -->
+
 ### 👋 Hi, I'm Prachi
 I build decision engines that move operations. Faster cycles, cleaner decisions, lower cost. I don’t ship charts; I ship clarity that leaders use to act.
 I’ve led high-impact work across higher ed, automotive, public sector, and delivery networks owning the problem end-to-end, tightening the signal in the metrics, 
 and hardening the reporting so it scales. 
 <br> The result: faster planning, fewer handoffs, and measurable gains in on-time performance and cost efficiency.
-<br> My bias is for action and accountability: define the KPI, instrument the data, tell the story, and make the call. 
+
+<br> <br> My bias is for action and accountability: define the KPI, instrument the data, tell the story, and make the call. 
 I’m comfortable in the weeds and at the exec table writing the narrative, defending the trade-offs, and landing the change.
-What’s next for me: owning a portfolio of analytics products that directly improves customer experience and unit economics and mentoring a team that does the same.
+<br> What’s next for me: owning a portfolio of analytics products that directly improves customer experience and unit economics and mentoring a team that does the same.
 <br> If you need someone who turns ambiguous data problems into business leverage, that’s what I do.
 <br>
 
