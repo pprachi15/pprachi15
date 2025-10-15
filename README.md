@@ -8,8 +8,8 @@
 I build decision engines that move operations. Faster cycles, cleaner decisions, lower cost. I don’t ship charts; I ship clarity that leaders use to act.
 I’ve led high-impact work across higher ed, automotive, public sector, and delivery networks owning the problem end-to-end, tightening the signal in the metrics, 
 and hardening the reporting so it scales. 
-<br> The result: faster planning, fewer handoffs, and measurable gains in on-time performance and cost efficiency.
-<br> <br> My bias is for action and accountability: define the KPI, instrument the data, tell the story, and make the call. 
+<br> <br> The result: faster planning, fewer handoffs, and measurable gains in on-time performance and cost efficiency.
+<br> My bias is for action and accountability: define the KPI, instrument the data, tell the story, and make the call. 
 I’m comfortable in the weeds and at the exec table writing the narrative, defending the trade-offs, and landing the change.
 <br> What’s next for me: owning a portfolio of analytics products that directly improves customer experience and unit economics and mentoring a team that does the same.
 <br> If you need someone who turns ambiguous data problems into business leverage, that’s what I do.
