@@ -145,15 +145,21 @@ I’m comfortable in the weeds and at the exec table writing the narrative, defe
       </table>
     </td>
   </tr>
-  <tr> <!-- Delivery Network Efficiency -->
+  <tr> <!-- Inventory Planning & Replenishment Optimization -->
     <td style="width:33.33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Inventory Planning Optimization</td></tr>
+        <tr><td align="center" style="height:200px;"><img src="https://github.com/user-attachments/assets/bf94256e-ec19-4fa1-a06c-a590c53a56a7" alt="Inventory Planning & Replenishment Optimization" width="260" height="160"></td></tr>
+        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Inventory-Planning-and-Replenishment-Optimization.git">Project Link</a></td></tr>
+      </table>
+    </td> <!-- Delivery Network Efficiency -->
+     <td style="width:33.33%; padding:0; border:1px solid #3a3a3a;">
       <table style="width:100%; height:320px; table-layout:fixed;">
         <tr><td align="center" style="height:56px; font-weight:bold;">Delivery Network Efficiency</td></tr>
         <tr><td align="center" style="height:200px;"><img src="https://github.com/user-attachments/assets/41bd2815-9ecf-4230-859f-4c8b2e59ad49" alt="Delivery Network Efficiency" width="260" height="160"></td></tr>
         <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Delivery_Network_Efficiency_Dashboard-.git">Project Link</a></td></tr>
       </table>
     </td>
-    <td style="width:33.33%; padding:0; border:1px solid #3a3a3a;"><div style="height:320px;"></div></td> <!-- placeholder -->
     <td style="width:33.33%; padding:0; border:1px solid #3a3a3a;"><div style="height:320px;"></div></td> <!-- placeholder -->
   </tr>
 
