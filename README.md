@@ -240,7 +240,7 @@ I’m comfortable in the weeds and at the exec table writing the narrative, defe
 
 </table>
 
-<h3>Excel 🧙‍♀️</h3>
+<h3>Excel 🧙‍♀️ and SQL only!</h3>
 
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
   <tr> <!-- Solar Energy Analysis -->
@@ -263,6 +263,17 @@ I’m comfortable in the weeds and at the exec table writing the narrative, defe
         </td></tr>
         <tr><td align="center" style="height:64px;">
           <a href="https://github.com/pprachi15/Service-Distribution-Readiness-Excel.git">Project Link</a>
+        </td></tr>
+      </table>
+    </td><!-- Global Supply Chain Analytics -->
+    <td style="width:50%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Global Supply Chain Analytics</td></tr>
+        <tr><td align="center" style="height:200px;">
+          <img src="https://github.com/user-attachments/assets/f7cdcdbc-2a23-430b-a368-05b2d23832c2" alt="Global Supply Chain Analytics" width="260" height="160">
+        </td></tr>
+        <tr><td align="center" style="height:64px;">
+          <a href="https://github.com/pprachi15/Global_Supply_Chain_Analytics.git">Project Link</a>
         </td></tr>
       </table>
     </td>
