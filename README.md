@@ -15,7 +15,7 @@ I’m comfortable in the weeds and at the exec table writing the narrative, defe
 <br> If you need someone who turns ambiguous data problems into business leverage, that’s what I do.
 <br>
 
-## Technical Skills ✨
+## Technical Skills 🎯
 
 <img src="https://github.com/pprachi15/introduction/assets/116032314/650fefe9-040d-4264-9199-339819740bb0" width="80" height="80" />      <!-- Python -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/0c174aef-f793-4a52-8b80-ceb431cf0cfa" width="80" height="80" />      <!-- SQL -->
@@ -34,15 +34,36 @@ I’m comfortable in the weeds and at the exec table writing the narrative, defe
 
 
 **Programming:** SQL (advanced joins, CTEs, window functions), Python (pandas, NumPy, matplotlib, seaborn), Java, HTML, CSS  
+
 **Cloud & Data Engineering:** Snowflake, AWS (Redshift, S3), ETL Pipelines, Data Modeling (Star & Snowflake Schemas)  
+
 **Data Visualization & Analytics:** Tableau, Power BI, AWS QuickSight, Excel (Pivot Tables, Power Query)  
+
 **Business & Project Tools:** Jira, Confluence, Notion, SharePoint, Salesforce, PeopleSoft/Oracle, Toad  
+
 **Data Strategy & Processes:** Data Governance, KPI Design, Forecasting, Process Optimization, Automation  
+
 **Microsoft Office Tools:** Excel, PowerPoint, Word, Teams, Outlook, Visio, OneNote, Visual Studio IDE  
+
 **Design & Research Tools:** Figma, Qualtrics
 
 <br>
 
+
+## ✨Highlights✨
+
+>  <a href="https://github.com/pprachi15/Project_Thirty.git">
+>  <img width="930" height="500" alt="image" src="https://github.com/user-attachments/assets/20548c3a-3f59-4458-9030-bef4f22ba72a" />
+> </a>
+>
+> A structured thirty day initiative focused on real business problem solving through applied strategy, analysis, and decision making across fintech, operations, product, and business environments.
+>
+> <a href="https://github.com/pprachi15/Applied-Business-Strategy-Challenge.git">Click to see the full challenge</a>
+
+
+<br>
+
+ 
 ## Project Portfolio 💻
 
 
